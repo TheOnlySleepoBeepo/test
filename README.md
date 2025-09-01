@@ -1,3 +1,4 @@
+<a href="https://i.imgur.com/99hcF81.jpeg"><img src="https://i.imgur.com/99hcF81.jpeg" title="source: imgur.com" /></a>
 # COMMONLY FAILING DOWNLOADS
 ## You must download all of these manually before you attempt Wabbajack installation. Refer to this for specific steps on how to do so.
 
