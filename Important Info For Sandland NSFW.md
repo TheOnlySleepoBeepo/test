@@ -5,12 +5,13 @@
 - Z = Approach / Flirt for Sex with Npc
 - U = Surrender
 - ( Plus Key next to Enter Key ) = Show Sex Attributes
+- For QWERTY USERS its the button next to backspace (+) = Show Sex Attributes
 - Shift+U= Open NAF Main Menu
 
 
 # Manual Settings after Character Creation
 
-## 1. Run MCM Settings Recorder = Sandland Remake NSFW
+## 1. Run MCM Settings Recorder = Sandland Remake NSFW (The Green One Is For The SFW List)
 
 <a href="https://i.imgur.com/Hobbq34.png"><img src="https://i.imgur.com/Hobbq34.png" title="source: imgur.com" /></a>
 
@@ -18,7 +19,7 @@
 
 <a href="https://i.imgur.com/Rvic8gS.png"><img src="https://i.imgur.com/Rvic8gS.png" title="source: imgur.com" /></a>
 
-## 3. Go to Liga and turn of the Scriped Hotkey, but keep the bottom one on H. The one on G must be turned off so the Item Wheel works on G instead.
+## 3. Go to Liga and turn off the Scriped Hotkey, but keep the bottom one on H. The one on G must be turned off so the Item Wheel works on G instead.
 
 <a href="https://i.imgur.com/nlOemnW.png"><img src="https://i.imgur.com/nlOemnW.png" title="source: imgur.com" /></a>
 
@@ -26,18 +27,18 @@
 
 <a href="https://i.imgur.com/lY9Ajo7.png"><img src="https://i.imgur.com/lY9Ajo7.png" title="source: imgur.com" /></a>
 
-## 5. Go to the You Are Exceptional MCM under GAMEPLAY OPTIONS and turn off Retroactive Rewards so you don't get random EXP from entering ane leaving the workshop.
+## 5. Go to the You Are Exceptional MCM under GAMEPLAY OPTIONS and turn off Retroactive Rewards so you don't get random EXP from entering and leaving the workshop.
 
 <a href="https://i.imgur.com/jOnApyA.png"><img src="https://i.imgur.com/jOnApyA.png" title="source: imgur.com" /></a>
 
-## 4. Go to More Ways of Washing and change the hot key shown here to something other than Shift-Z as the shift modifiier doesnt seem to work with this mod.
+## 6. Go to More Ways of Washing and change the hot key shown here to something other than Shift-Z as the shift modifiier doesnt seem to work with this mod.
 
 <a href="https://i.imgur.com/T1XIjqO.png"><img src="https://i.imgur.com/T1XIjqO.png" title="source: imgur.com" /></a>
 
-## 5. THIS MCM SETTING IS FOR IF YOU REALLY DON'T WANT A CHEAP WAY TO LOCKPICK/HACK THINGS. This really makes things a bit too easy as you can willpower a masterlock open and is a bit overpowered. 
+## 7. THIS MCM SETTING IS FOR IF YOU REALLY DON'T WANT A CHEAP WAY TO LOCKPICK/HACK THINGS. This really makes things a bit too easy as you can willpower a masterlock open and is a bit overpowered. 
 
 <a href="https://i.imgur.com/BGlR8OK.png"><img src="https://i.imgur.com/BGlR8OK.png" title="source: imgur.com" /></a>
 
-## 6. In the Sexual Harrasment mod MCM under the Bodymorphs settings turn the Fusion Girl body off as we don't use it we use CBBE
+## 8. In the Sexual Harrasment mod MCM under the Bodymorphs settings turn the Fusion Girl body off as we don't use it we use CBBE
 
 <a href="https://i.imgur.com/TZ8fvLN.png"><img src="https://i.imgur.com/TZ8fvLN.png" title="source: imgur.com" /></a>
